@@ -1,4 +1,4 @@
-# SwasthiQ — Pharmacy CRM
+# Pharmacy Management System
 
 A full-stack Pharmacy Module built with **FastAPI (Python)** + **React** + **PostgreSQL**.
 
